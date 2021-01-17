@@ -1,9 +1,8 @@
 <template>
-    <div class="wrap-content">
-        index 页面
+    <div>
+        header
     </div>
 </template>
-
 <script>
 export default {
     

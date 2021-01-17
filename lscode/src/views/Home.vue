@@ -1,19 +1,19 @@
 <template>
   <div class="home">
-      <p>header组件</p>
+      <nav-header></nav-header>
       <router-view></router-view>
-      <p>footer组件</p>
+      <nav-footer></nav-footer>
   </div>
 </template>
-
 <script>
 // @ is an alias to /src
-
-
+import NavHeader from '../components/navHeader.vue';
+import NavFooter from '../components/navFooter.vue';
 export default {
   name: 'Home',
   components: {
-
+    NavHeader,
+    NavFooter
   }
 }
 </script>
