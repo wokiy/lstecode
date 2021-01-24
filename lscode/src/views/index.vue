@@ -1,6 +1,8 @@
 <template>
-    <div class="wrap-content">
-        index 页面
+    <div class="content-wrapper">
+        <div class="item">
+
+        </div>
     </div>
 </template>
 
@@ -10,5 +12,7 @@ export default {
 }
 </script>
 <style lang="scss">
-
+    .content-wrapper {
+        height: 750px;
+    }
 </style>
