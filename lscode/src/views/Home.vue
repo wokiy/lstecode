@@ -20,9 +20,6 @@ export default {
 
 <style lang="scss">
   .home {
-    font-size: 18px;
-    .item {
-      font-size: 18px;
-    }
+
   }
 </style>

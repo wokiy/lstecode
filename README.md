@@ -1,7 +1,7 @@
 # 狮头鹅营销
 项目前期需求分析： 项目目录，接口梳理， 插件接受 ，路由封装，storage本地存储封装，axios二次封装，mock数据
 
-node-sass ：npm i node-sass --sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+node-sass ：npm i node-sass --save-dev --sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
 ### 记录
 1. 设置跨域代理 新建 vue.config.js
 
@@ -23,7 +23,9 @@ node-sass ：npm i node-sass --sass_binary_site=https://npm.taobao.org/mirrors/n
 【import 预编译加载 require(执行时候加载)】
  发起mockjs数据请求 没有发起网络请求，请求在中途被拦截了。
 
+4. 组件封装
 
+5. 全局基本样式app.vue 导入
 
 
 

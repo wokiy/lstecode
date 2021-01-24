@@ -6,7 +6,7 @@ import Actions from './actions'
 Vue.use(Vuex)
 
 const State = {
-  username = '',
+  username:"",
   cartCount:0
 }
 export default new Vuex.Store({
