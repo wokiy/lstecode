@@ -27,5 +27,6 @@ node-sass ：npm i node-sass --save-dev --sass_binary_site=https://npm.taobao.or
 
 5. 全局基本样式app.vue 导入
 
+6. footer组件编写
 
 
